@@ -44,7 +44,7 @@ function App() {
         <footer className="p-6 text-center text-zinc-400 border-t border-zinc-800 backdrop-blur bg-gradient-to-r from-[#180020] via-[#0f0c1b] to-[#180020] shadow-inner space-y-2">
           <p>© 2025 Priyaranjan Ravi — Built from scratch with 💖 + ⚙️ + 🧠</p>
           <div className="flex flex-col sm:flex-row justify-center gap-4 text-sm">
-            <a href="https://github.com/prism7ai" target="_blank" className="hover:text-fuchsia-400 transition">GitHub</a>
+            <a href="https://github.com/Priyaranjan-R" target="_blank" className="hover:text-fuchsia-400 transition">GitHub</a>
             <a href="https://linkedin.com/in/priyaranjan-r-31885127a" target="_blank" className="hover:text-fuchsia-400 transition">LinkedIn</a>
             <a href="https://leetcode.com/u/HoXyP2fbbE/" target="_blank" className="hover:text-fuchsia-400 transition">LeetCode</a>
             <a href="mailto:rpriyaranjan63@gmail.com" className="hover:text-fuchsia-400 transition">Email</a>
