@@ -29,7 +29,7 @@ export default function Contact() {
         transition={{ duration: 0.8 }}
       >
         <a
-          href="https://github.com/prism7ai"
+          href="https://github.com/Priyaranjan-R"
           target="_blank"
           className="flex items-center gap-2 hover:text-fuchsia-400 transition"
         >
